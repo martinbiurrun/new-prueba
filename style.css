@@ -118,6 +118,8 @@ animation-duration */
     animation: changeColor 4s infinite;
 }
 
+
+/* nada */
 /* Fotogramas de la animacion */
 @keyframes changeColor {
     0% {
